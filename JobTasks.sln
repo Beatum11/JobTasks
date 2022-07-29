@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PowerLine_Company", "PowerLine_Company", "{03C845D0-8CE5-44EF-9521-AE59F79FB7BE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test_Task", "Test_Task\Test_Task.csproj", "{D45EB9CD-791E-4B9F-8DB0-29BD4DDED0BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondTask", "SecondTask\SecondTask.csproj", "{1E1E4E52-5CEA-4F65-8066-DD0EC766C864}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D45EB9CD-791E-4B9F-8DB0-29BD4DDED0BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D45EB9CD-791E-4B9F-8DB0-29BD4DDED0BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D45EB9CD-791E-4B9F-8DB0-29BD4DDED0BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D45EB9CD-791E-4B9F-8DB0-29BD4DDED0BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E1E4E52-5CEA-4F65-8066-DD0EC766C864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E1E4E52-5CEA-4F65-8066-DD0EC766C864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E1E4E52-5CEA-4F65-8066-DD0EC766C864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E1E4E52-5CEA-4F65-8066-DD0EC766C864}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D45EB9CD-791E-4B9F-8DB0-29BD4DDED0BB} = {03C845D0-8CE5-44EF-9521-AE59F79FB7BE}
+		{1E1E4E52-5CEA-4F65-8066-DD0EC766C864} = {03C845D0-8CE5-44EF-9521-AE59F79FB7BE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24598B47-CC87-4226-A71B-D2AE1BBE4D6A}
+	EndGlobalSection
+EndGlobal
